@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "friendfinder",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "version": "1.0.0",
+  "main": "apiRoutes.js",
+  "devDependencies": {},
+  "author": "Josias k",
+  "license": "ISC",
+  "description": ""
+}
